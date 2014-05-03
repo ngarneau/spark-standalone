@@ -2,5 +2,5 @@
 
 Simply run from the command line:
 
-    sbt/sbt package
-    sbt/sbt run
+    sbt package
+    sbt run
